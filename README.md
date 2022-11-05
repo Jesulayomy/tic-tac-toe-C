@@ -2,6 +2,7 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/Jesulayomy/tic-tac-toe-C?style=plastic) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Jesulayomy/tic-tac-toe-C?style=plastic)
 
 ## Tic-Tac-Toe Game
+![the board printer](./resources/board.png)
 ### Compiling
 Compile the file locally for your machine
 ```command line
