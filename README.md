@@ -22,14 +22,16 @@ $- ./tictactoegame
 >- The first player is always o, will I change it, probably not 
  (you could play rock paper scissors here to find out who goes first)
 >- Enter the coresponding cell to input your symbol at that location
+
 ![inprogress](./resources/play.PNG)
 >- The program will alert you if you try to overwrite an existing cell
+
 ![occupe](./resources/occupe.PNG)
+
 #### Have fun for like 3mins
 ![sippp](./resources/rmd2.jpg)
 
 ### Undocumented features
-![akabugs](./resources/feature.jpeg)
 >- Sending a character input to the program results in an infinite loop
    (don't do it (or do))
    ![push](./resources/peter-griffin-push.gif)
