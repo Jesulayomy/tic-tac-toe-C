@@ -36,12 +36,9 @@ $- ./tictactoegame
    (don't do it (or do))
    ![push](./resources/peter-griffin-push.gif)
 
-### Libraries
-- stdio.h
-- stdlib.h
 
 #### Built with
-[@micoliser](https://github.com/micoliser)
+[Micoliser](https://github.com/micoliser)
 
 #### License
->- [MIT License](./LICENSE)
+[MIT License](./LICENSE)
